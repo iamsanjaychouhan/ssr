@@ -1,0 +1,232 @@
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+Puppeteer error while rendering "[33mhttps://safetywagon.com/product/covid-19-essentials/nose-mask/nose-mask-3m-9000ing/1[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mhttps://safetywagon.com/product/covid-19-essentials/nose-mask/nose-mask-3m-9000ing/1[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mhttps://safetywagon.com/product/covid-19-essentials/nose-mask/nose-mask-3m-9000ing/1[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+Puppeteer error while rendering "[33mproduct/safety/gumboot/9[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/hand-protection/10[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/ear-protection/11[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/gumboot/9[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/hand-protection/10[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/ear-protection/11[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/gumboot/9[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/hand-protection/10[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/safety/ear-protection/11[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+Puppeteer error while rendering "[33mproduct/nose-mask/2[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/nose-mask/2[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+Puppeteer error while rendering "[33mproduct/nose-mask/2[39m"
+Error: Protocol error (Page.navigate): Cannot navigate to invalid URL
+ we will retry rendering this page up to 3 times.
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brand/:/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brand/:/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brand/:/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+Using stored unhandled routes!.
+   To discover new routes in the angular app use "[33mnpm run scully -- --scanRoutes[39m"
+----------------------------------No configuration for route "[33m/product/:cid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brand/:/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
+
+No configuration for route "[33m/category/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:cid[39m" found. SkippingNo configuration for route "[33m/product/detail/:pid[39m" found. SkippingNo configuration for route "[33m/product/:/:/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:product/:pid[39m" found. SkippingNo configuration for route "[33m/productcart/:/:/:pid[39m" found. SkippingNo configuration for route "[33m/product/:parent_category/:category/:cid[39m" found. SkippingNo configuration for route "[33m/product/:/:bid[39m" found. SkippingNo configuration for route "[33m/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brands-page/product-brandid/:bid[39m" found. SkippingNo configuration for route "[33m/brand/:/:bid[39m" found. SkippingNo configuration for route "[33m/forgotpassword/:uid[39m" found. Skipping
+
+
+
+
+
+
+
+
+
+
+
